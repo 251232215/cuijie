@@ -78,17 +78,27 @@ awards:
     awarder: Association for Education in Journalism and Mass Communication Annual Convention
     icon: edx
     
-  - title: 'The Outstanding Paper Award in the 15th Chinese Communication Conference'
+  - title: The Outstanding Paper Award in the 15th Chinese Communication Conference
     date: '2022-07-03'
     awarder: Chinese Communication Conference
     icon: datacamp
 
-    - title: 'The Outstanding Paper Award in the 15th Chinese Communication Conference'
-    date: '2022-07-03'
-    awarder: Chinese Communication Conference
+    - title: The Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University
+    date: '2021-05'
+    awarder: Tsinghua University
+    icon: datacamp
+
+   - title: The Outstanding Graduates in Beijing
+    date: '2021-07-01'
+    awarder: Beijing Municipal Commission of Education
+    icon: datacamp
+
+   - title: The Outstanding Graduates in Shanghai
+    date: '2018-06'
+    awarder: Shanghai Municipal Commission of Education
     icon: datacamp
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jie Cui is a Ph.D. candidate of journalism and communication at Shanghai Jiao Tong Univeristy. Her research interests include political communication, popular culture, and human-computer interaction. As the first author or corresponding author, she has published six SSCI/CSSCI papers in peer-reviewed journals including Information, Communication & Society, International Journal of Human-Computer Interaction, Chinese Journal of Communication, Global Journal of Media Studies (全球传媒学刊), and Television Studies (电视研究).  She has also presented over ten papers in international conferences including AEJMC, ICA, NCA, and IAMCR. Received the First Place Student Paper Award in Broadcast and Mobile Journalism Division of AEJMC (2022), the Outstanding Paper Award in the 15th Chinese Communication Conference, and the Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University (2021). She has served as a reviewer for Digital Journalism and Social Science Computer Review and published one textbook as associate editor. She was also awarded the National Scholarship for Doctoral Students(2023), the Outstanding Graduates in Beijing (2021), and the Outstanding Graduates in Shanghai (2014). 
