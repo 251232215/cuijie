@@ -74,7 +74,7 @@ awards:
   
   - title: 'The Outstanding Paper Award in the 15th Chinese Communication Conference'
     date: '2022-07-03'
-    awarder: Association for Chinese Communication
+    awarder: Association for Education in Journalism and Mass Communication
    
     - title: 'The Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University'
     date: '2021-05'
