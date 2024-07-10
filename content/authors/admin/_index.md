@@ -68,32 +68,32 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: The National Scholarship for Doctoral Students
+  - title: 'The National Scholarship for Doctoral Students'
     date: '2023-12'
-    awarder: The Ministry of Education of the People's Republic of China (MOE)
+    awarder: The Ministry of Education of the People's Republic of China 
     icon: coursera
     
-  - title: First Place Student Paper in Broadcast and Mobile Journalism Division
+  - title: 'First Place Student Paper in Broadcast and Mobile Journalism Division'
     date: '2023-07'
     awarder: Association for Education in Journalism and Mass Communication Annual Convention
     icon: edx
     
-  - title: The Outstanding Paper Award in the 15th Chinese Communication Conference
+  - title: 'The Outstanding Paper Award in the 15th Chinese Communication Conference'
     date: '2022-07-03'
     awarder: Chinese Communication Conference
     icon: datacamp
 
-    - title: The Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University
+    - title: 'The Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University'
     date: '2021-05'
     awarder: Tsinghua University
     icon: datacamp
 
-   - title: The Outstanding Graduates in Beijing
+   - title: 'The Outstanding Graduates in Beijing'
     date: '2021-07-01'
     awarder: Beijing Municipal Commission of Education
     icon: datacamp
 
-   - title: The Outstanding Graduates in Shanghai
+   - title: 'The Outstanding Graduates in Shanghai'
     date: '2018-06'
     awarder: Shanghai Municipal Commission of Education
     icon: datacamp
