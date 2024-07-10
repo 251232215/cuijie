@@ -71,11 +71,7 @@ awards:
   - title: 'First Place Student Paper in Broadcast and Mobile Journalism Division'
     date: '2023-07'
     awarder: Association for Education in Journalism and Mass Communication
-  
-  - title: 'The Outstanding Paper Award in the 15th Chinese Communication Conference'
-    date: '2022-07-03'
-    awarder: Association for Education in Journalism and Mass Communication
-   
+
     - title: 'The Outstanding Paper Award in the Doctoral Forum of Journalism and Communication at Tsinghua University'
     date: '2021-05'
     awarder: Tsinghua University
