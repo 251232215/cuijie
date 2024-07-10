@@ -8,7 +8,6 @@ first_name: Jie
 last_name: Cui
 
 # Status emoji
-status: Looking for a job
   icon: ☕️
 
 # Is this the primary user of the site?
