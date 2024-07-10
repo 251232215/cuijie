@@ -7,9 +7,6 @@ title: 崔洁
 first_name: Jie
 last_name: Cui
 
-# Status emoji
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
